@@ -12,12 +12,7 @@
 |     乙     |    SZ  |    C,D  |
 
 转换成：
-| NAME  |  LOCATION    |   COMPANY   |
-| :------: | :--: | :--: |
-|   甲    |  BJ    |   A   |
-| 甲  |  BJ    |   B|
-|    甲   |  BJ    |   C |
-|     乙     |    SZ  |    C |
-|     乙     |    SZ  |    D  |
-。
-
+| NAME |  LOCATION    |   COMPANY   |
+| :---------------------: | :--: | :--: |
+|                甲         |  BJ    |   A,B,C   |
+|     乙     |    SZ  |    C,D  |
