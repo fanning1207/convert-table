@@ -13,7 +13,7 @@
 
 转换成：
 
-| name |  LOCATION    |   COMPANY   |
+| NAME |  LOCATION    |   COMPANY   |
 | :---------------------: | :--: | :--: |
 |                甲         |  BJ    |   A   |
 |                甲         |  BJ    |   B|
